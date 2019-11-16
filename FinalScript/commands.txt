@@ -1,2 +1,0 @@
-sudo bash -c '/usr/bin/python3.5 /home/pi/Documents/TestingFiles/FinalScript/script.py'
-
