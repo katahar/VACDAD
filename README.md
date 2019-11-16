@@ -30,9 +30,9 @@ ___@todo: Get list of all studies using this sensor___
 - If you would like to reset the count for the file names, open the count.data file and change the number back to 1 (or whatever number you want the next file to be named) and save. 
 
 ##### LED Key
-__Red__: Power is Connected
-__Green__: Recording Script is Active, Ready to Record
-__Yellow__: Device is Recording Data
+Red: Power is Connected
+Green: Recording Script is Active, Ready to Record
+Yellow: Device is Recording Data
 -------
 
 
