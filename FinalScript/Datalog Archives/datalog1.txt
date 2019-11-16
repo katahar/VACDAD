@@ -1,0 +1,72 @@
+-------------------- Log instance 1 -------------------- 
+Began at: 07/02/2019, 23:47:58Reading: 1 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 2 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 3 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 4 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 5 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 6 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 7 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 8 	 eCO2 = 400 ppm 	 TVOC = 6 ppb 
+Reading: 9 	 eCO2 = 400 ppm 	 TVOC = 2 ppb 
+Current time:23:48:08
+Reading: 10 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 11 	 eCO2 = 400 ppm 	 TVOC = 3 ppb 
+Reading: 12 	 eCO2 = 400 ppm 	 TVOC = 6 ppb 
+Reading: 13 	 eCO2 = 400 ppm 	 TVOC = 5 ppb 
+Reading: 14 	 eCO2 = 400 ppm 	 TVOC = 8 ppb 
+Reading: 15 	 eCO2 = 400 ppm 	 TVOC = 2 ppb 
+Reading: 16 	 eCO2 = 400 ppm 	 TVOC = 2 ppb 
+Reading: 17 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 18 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 19 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Current time:23:48:20
+Reading: 20 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 21 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 22 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 23 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 24 	 eCO2 = 400 ppm 	 TVOC = 1 ppb 
+Reading: 25 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 26 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 27 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 28 	 eCO2 = 400 ppm 	 TVOC = 3 ppb 
+Reading: 29 	 eCO2 = 400 ppm 	 TVOC = 1 ppb 
+Current time:23:48:32
+Reading: 30 	 eCO2 = 400 ppm 	 TVOC = 7 ppb 
+Reading: 31 	 eCO2 = 400 ppm 	 TVOC = 5 ppb 
+Reading: 32 	 eCO2 = 400 ppm 	 TVOC = 6 ppb 
+Reading: 33 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 34 	 eCO2 = 400 ppm 	 TVOC = 4 ppb 
+Reading: 35 	 eCO2 = 400 ppm 	 TVOC = 11 ppb 
+Reading: 36 	 eCO2 = 400 ppm 	 TVOC = 3 ppb 
+Reading: 37 	 eCO2 = 400 ppm 	 TVOC = 6 ppb 
+Reading: 38 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 39 	 eCO2 = 400 ppm 	 TVOC = 2 ppb 
+Current time:23:48:44
+Reading: 40 	 eCO2 = 400 ppm 	 TVOC = 0 ppb 
+Reading: 41 	 eCO2 = 400 ppm 	 TVOC = 3 ppb 
+Reading: 42 	 eCO2 = 400 ppm 	 TVOC = 4 ppb 
+Reading: 43 	 eCO2 = 400 ppm 	 TVOC = 5 ppb 
+Reading: 44 	 eCO2 = 400 ppm 	 TVOC = 13 ppb 
+Reading: 45 	 eCO2 = 400 ppm 	 TVOC = 12 ppb 
+Reading: 46 	 eCO2 = 400 ppm 	 TVOC = 11 ppb 
+Reading: 47 	 eCO2 = 400 ppm 	 TVOC = 4 ppb 
+Reading: 48 	 eCO2 = 400 ppm 	 TVOC = 13 ppb 
+Reading: 49 	 eCO2 = 400 ppm 	 TVOC = 8 ppb 
+Current time:23:48:56
+Reading: 50 	 eCO2 = 400 ppm 	 TVOC = 13 ppb 
+Reading: 51 	 eCO2 = 400 ppm 	 TVOC = 10 ppb 
+Reading: 52 	 eCO2 = 400 ppm 	 TVOC = 7 ppb 
+Reading: 53 	 eCO2 = 400 ppm 	 TVOC = 3 ppb 
+Reading: 54 	 eCO2 = 400 ppm 	 TVOC = 5 ppb 
+Reading: 55 	 eCO2 = 484 ppm 	 TVOC = 12 ppb 
+Reading: 56 	 eCO2 = 818 ppm 	 TVOC = 37 ppb 
+Reading: 57 	 eCO2 = 812 ppm 	 TVOC = 56 ppb 
+Reading: 58 	 eCO2 = 500 ppm 	 TVOC = 40 ppb 
+Reading: 59 	 eCO2 = 610 ppm 	 TVOC = 48 ppb 
+Current time:23:49:08
+Reading: 60 	 eCO2 = 691 ppm 	 TVOC = 47 ppb 
+Reading: 61 	 eCO2 = 562 ppm 	 TVOC = 36 ppb 
+Reading: 62 	 eCO2 = 431 ppm 	 TVOC = 33 ppb 
+Reading: 63 	 eCO2 = 400 ppm 	 TVOC = 24 ppb 
+Reading: 64 	 eCO2 = 400 ppm 	 TVOC = 13 ppb 
+Log ended at: 07/02/2019, 23:49:15
