@@ -6,6 +6,13 @@ Originally developed as a payload for a drone to take gas samples over a lake.
  #### Goals
  Update 11.15.19:
  While originally designed for one lab , I want to make this and similar hardware accessible to all research labs, so if you come up with a new way to use this or have started using this in your research, please let me know what you think! 
+ #### Current Uses:
+ - Lake Study
+  - Alzheimer's Study
+  - Huntington's Disease Study
+  - Emotion Tracking in Dogs
+  - Student Learning Tracking in the Classroom
+___@todo: Get list of all studies using this sensor___
  ------
   #### Instructions 
   ##### Before Collecting Data/Notes
@@ -19,24 +26,19 @@ Originally developed as a payload for a drone to take gas samples over a lake.
  - When ready to record, flip the data acquisition switch. The yellow LED should turn on with a slight delay. You are now recording!
  - When data collection is complete, turn the switch off. This will end the recording and save the data as a new .CSV and .txt file. 
   ##### Instructions for Retrieving Data 
-- All data is saved on the desktop of the Raspberry Pi under the data folder. All  you need to do is connect it to a mouse, keyboard, and monitor like a normal computer and move them to an external USB for further analysis. 
-- If you would like to reset the count for the file names, open the count.data file and change the number back to 1 (or whatever number you want the next file to hae its )
+- All data is saved on the desktop of the Raspberry Pi under the data folder. All  you need to do is connect it to a mouse, keyboard, and monitor like a normal computer and move them to an external USB drive for further analysis. 
+- If you would like to reset the count for the file names, open the count.data file and change the number back to 1 (or whatever number you want the next file to be named) and save. 
 
 ##### LED Key
 __Red__: Power is Connected
 __Green__: Recording Script is Active, Ready to Record
 __Yellow__: Device is Recording Data
-#### Current Uses:
- - Lake Study
-  - Alzheimer's Study
-  - Huntington's Disease Study
-  - Emotion Tracking in Dogs
-  - Student Learning Tracking in the Classroom
-___@todo: Get list of all studies using this sensor___
+-------
+
 
 
 #### How its Built:
- This is a simple circuit that runs Raspbian 
+ This is a basic circuit that connects a Raspberry Pi Zero to a gas sensor via I2C communication and records the data output if the switch is set to on, and indicates the state of recording at all times via three LEDs. The Raspberry Pi runs a Python script on startup that is responsible for recording these values.  The entire unit is powered by an external portable phone charger. 
  
 #### Hardware
 - Rasbperry Pi Zero W
@@ -49,6 +51,10 @@ ___@todo: Get list of all studies using this sensor___
 - Micro USB Cable
 - Wires
 #### Software
+ __All required software is on the disk image, but you can follow these instructions if you would like to make your own scratch build__
+- Latest build of Raspbian on a microSD card
+- Python 3.x.x
+
 
 #### Planned Additions
 -STL for case to reduce load times
