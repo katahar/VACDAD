@@ -19,7 +19,7 @@ ___@todo: Get list of all studies using this sensor___
   - ___Be sure to "burn in" the sensor for at least 12 hours before using for actual data collection by running the script for 12 hours, per manufacturer instructions___
   - My recommendation is to burn in the sensor for at least the hour before each subsequent data collection. This ensures that it will be a little more accurate. 
   - The first 10-20 data points will be nonsense (recording as TVOC 0 ppb/eCO2 400 ppm), so be sure to start recording for a few seconds before actual data is needed.
-  - Each file is named subsequently (ie. data1.txt, data2.txt, etc.) If you want to rename the 
+  - Each file is named subsequently (ie. data1.txt, data2.txt, etc.) If you want to reset the count, modify the count.data file. 
   
   ##### Instructions for Recording
  - Connect power to Raspberry Pi, wait for red and green LEDs to light up
