@@ -1,0 +1,1 @@
+Connect circuit according to the attached diagram
