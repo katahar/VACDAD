@@ -30,9 +30,9 @@ ___@todo: Get list of all studies using this sensor___
 - If you would like to reset the count for the file names, open the count.data file and change the number back to 1 (or whatever number you want the next file to be named) and save. 
 
 ##### LED Key
-Red: Power is Connected
-Green: Recording Script is Active, Ready to Record
-Yellow: Device is Recording Data
+- Red: Power is Connected
+- Green: Recording Script is Active, Ready to Record
+- Yellow: Device is Recording Data
 -------
 
 
@@ -57,9 +57,11 @@ Yellow: Device is Recording Data
 
 
 #### Planned Additions
--STL for case to reduce load times
--power switch
--Burn in switch and LED
+ - STL for case to reduce load times
+ - Smaller Battery
+ - Power switch
+ - Burn in switch and LED
+ 
 #### Notes
 - Keep in mind that this is
  
