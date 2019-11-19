@@ -33,6 +33,7 @@ ___@todo: Get list of all studies using this sensor___
 - Red: Power is Connected
 - Green: Recording Script is Active, Ready to Record
 - Yellow: Device is Recording Data
+
 -------
 
 
@@ -50,6 +51,7 @@ ___@todo: Get list of all studies using this sensor___
 - 3 Pin/2 Position Switch
 - Micro USB Cable
 - Wires
+
 #### Software
  __All required software is on the disk image, but you can follow these instructions if you would like to make your own scratch build__
 - Latest build of Raspbian on a microSD card
@@ -61,6 +63,7 @@ ___@todo: Get list of all studies using this sensor___
  - Smaller Battery
  - Power switch
  - Burn in switch and LED
+ - ___Built-in calibration curve___
  
 #### Notes
 - Keep in mind that this is
