@@ -7,12 +7,14 @@ Originally developed as a payload for a drone to take gas samples over a lake.
  Update 11.15.19:
  While originally designed for one lab , I want to make this and similar hardware accessible to all research labs, so if you come up with a new way to use this or have started using this in your research, please let me know what you think! 
  #### Current Uses:
- - Lake Study
+  - Lake Draining Study
   - Alzheimer's Study
   - Huntington's Disease Study
   - Emotion Tracking in Dogs
   - Student Learning Tracking in the Classroom
-___@todo: Get list of all studies using this sensor___
+  
+  #### Future Uses:
+  - Algae Growth Study
  ------
   #### Instructions 
   ##### Before Collecting Data/Notes
