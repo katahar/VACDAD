@@ -68,5 +68,5 @@ Originally developed as a payload for a drone to take gas samples over a lake.
  - ___Built-in calibration curve___
  
 #### Notes
-- Keep in mind that this is
+- Keep in mind that this project is in progress, and will be upgraded over time. 
  
