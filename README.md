@@ -4,6 +4,9 @@ Originally developed as a payload for a drone to take gas samples over a lake.
  
  
  #### Goals
+ Update 2.1.2020
+ This is currently being implemented in my undergraduate thesis: Design, Construction, and Characterization of a Mini-CO2/VOC Sensor and Gas Chromatograph for Field Research. Repo to be created. This project will still be updated alongside the mini GC. 
+ 
  Update 11.15.19:
  While originally designed for one lab , I want to make this and similar hardware accessible to all research labs, so if you come up with a new way to use this or have started using this in your research, please let me know what you think! 
  #### Current Uses:
