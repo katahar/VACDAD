@@ -1,5 +1,8 @@
 # Instructions for Installing Pi Image
 
+#### Image Update
+ - Until I can get the image file hosted successfully, I have the latest version of the script under PortableGasSensor/Script 
+
 #### Downloads
 - Download the excelOutput.zip file and unzip to known location
 - Download [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) and run
