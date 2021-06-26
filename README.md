@@ -4,7 +4,11 @@ Originally developed as a payload for a drone to take gas samples over a lake.
  
  
  #### Goals
- Update 2.1.2020:
+
+Update 6.26.21
+This has been implemented into my undergraduate thesis, which has been successfully defended. We (welcome @JoelMarq24) are adding an e-ink screen to allow for some data visualization, based on an older version I built but did not finish implementing. The project has now been renamed the VACDAD (VOC and Carbon Dioxide Data Acquisition Device).
+
+Update 2.1.2020:
  This is currently being implemented in my undergraduate thesis: Design, Construction, and Characterization of a Mini-CO2/VOC Sensor and Gas Chromatograph for Field Research. Repo to be created. This project will still be updated alongside the mini GC. 
  
  Update 11.15.19:
